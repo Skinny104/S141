@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skinny104
-- 👀 I’m interested in ... Space and photography
-- 🌱 I’m currently learning ... Portugese
+- 👀 I’m interested in ... Space photography, learning language and getting my feet wet into programming with code
+- 🌱 I’m currently learning ... French & Portugese
 - 💞️ I’m looking to collaborate on ... bot coding algorithms
 - 📫 How to reach me ... @ AngellsEyeMedia@gmail.com
 
